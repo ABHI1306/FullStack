@@ -1,0 +1,12 @@
+#one{
+    color: red;
+    border: 5px solid blue;
+    text-align: center;
+    margin: auto;
+}
+
+#two{
+    color: seagreen;
+    border: 5px dotted crimson;
+    padding: 100px 20px 200px 50px;
+}
