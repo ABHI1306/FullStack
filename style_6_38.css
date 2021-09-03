@@ -1,0 +1,31 @@
+td{
+    background-color: black;
+    height: 200px;
+    width: 100px;
+    border: whitesmoke 5px solid;
+}
+
+.art{
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Allison', cursive;
+}
+
+#one{
+    background-color: #CDB4DB;
+}
+#two{
+    background-color: #FFC8DD;
+}
+#three{
+    background-color: #FFAFCC;
+}
+#four{
+    background-color: #BDE0FE;
+}
+#five{
+    background-color: #A2D2FF;
+}
