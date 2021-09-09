@@ -2,4 +2,5 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse("<h1>Hello World</h1>")
+    my_dict = {'insert_me':"Hello now i'm from first app"}
+    return render(request, 'first_app/index.html', context=my_dict)
